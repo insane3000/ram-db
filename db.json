@@ -3,33 +3,40 @@
     {
       "id": 1,
       "name": "ram",
+      "brand": "T-FORCE",
+      "model": " GAMING XCALIBUR RGB 16GB (2 X 8GB) 3600MHZ",
       "thumbnail": "https://computerage.lk/wp-content/uploads/2020/12/Team-Force-XCALIBUR-RGB-3600Mhz-8GBx2-RamKi.png",
-      "large": "",
-      "images": [],
+      "large": "https://computerage.lk/wp-content/uploads/2020/12/Team-Force-Night-Hawk-RGB-3600Mhz-8GBx2-Ram-Ki.png",
+      "images": [
+        "https://computerage.lk/wp-content/uploads/2020/12/Team-Force-Night-Hawk-RGB-3600Mhz-8GBx2-Ram-Ki.png"
+      ],
       "price": "120",
-      "model": "T-FORCE GAMING XCALIBUR RGB 16GB (2 X 8GB) 3600MHZ",
       "energy": 100
     },
     {
       "id": 2,
       "name": "ram",
+      "brand": "TEAM FORCE",
+      "model": "NIGHT HAWK RGB 3600MHZ 8GBX2 RAM KIT",
       "thumbnail": "https://computerage.lk/wp-content/uploads/2020/12/Team-Force-Night-Hawk-RGB-3600Mhz-8GBx2-Ram-Ki.png",
-      "large": "",
-      "images": [],
-      "img04": "",
+      "large": "https://computerage.lk/wp-content/uploads/2020/12/Team-Force-Night-Hawk-RGB-3600Mhz-8GBx2-Ram-Ki.png",
+      "images": [
+        "https://computerage.lk/wp-content/uploads/2020/12/Team-Force-Night-Hawk-RGB-3600Mhz-8GBx2-Ram-Ki.png"
+      ],
       "price": "135",
-      "model": "TEAM FORCE NIGHT HAWK RGB 3600MHZ 8GBX2 RAM KIT",
       "energy": 100
     },
     {
       "id": 3,
       "name": "ram",
+      "brand": "TEAM FORCE",
+      "model": "XTREEM ARGB 8GBX2 3600MHZ RAMKIT",
       "thumbnail": "https://computerage.lk/wp-content/uploads/2020/12/Team-Force-XTREEM-ARGB-8GBx2-3600Mhz-Ra.png",
-      "large": "",
-      "images": [],
-      "img04": "",
+      "large": "https://computerage.lk/wp-content/uploads/2020/12/Team-Force-Night-Hawk-RGB-3600Mhz-8GBx2-Ram-Ki.png",
+      "images": [
+        "https://computerage.lk/wp-content/uploads/2020/12/Team-Force-Night-Hawk-RGB-3600Mhz-8GBx2-Ram-Ki.png"
+      ],
       "price": "170",
-      "model": "TEAM FORCE XTREEM ARGB 8GBX2 3600MHZ RAMKIT",
       "energy": 100
     }
   ]
