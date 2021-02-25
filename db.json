@@ -1,0 +1,37 @@
+{
+  "rams": [
+    {
+      "id": 1,
+      "name": "ram",
+      "img01": "https://computerage.lk/wp-content/uploads/2020/12/Team-Force-XCALIBUR-RGB-3600Mhz-8GBx2-RamKi.png",
+      "img02": "",
+      "img03": "",
+      "img04": "",
+      "price": "120",
+      "description": "T-FORCE GAMING XCALIBUR RGB 16GB (2 X 8GB) 3600MHZ",
+      "consumo": 100
+    },
+    {
+      "id": 2,
+      "name": "ram",
+      "img01": "https://computerage.lk/wp-content/uploads/2020/12/Team-Force-Night-Hawk-RGB-3600Mhz-8GBx2-Ram-Ki.png",
+      "img02": "",
+      "img03": "",
+      "img04": "",
+      "price": "135",
+      "description": "TEAM FORCE NIGHT HAWK RGB 3600MHZ 8GBX2 RAM KIT",
+      "consumo": 100
+    },
+    {
+      "id": 3,
+      "name": "ram",
+      "img01": "https://computerage.lk/wp-content/uploads/2020/12/Team-Force-XTREEM-ARGB-8GBx2-3600Mhz-Ra.png",
+      "img02": "",
+      "img03": "",
+      "img04": "",
+      "price": "170",
+      "description": "TEAM FORCE XTREEM ARGB 8GBX2 3600MHZ RAMKIT",
+      "consumo": 100
+    }
+  ]
+}
